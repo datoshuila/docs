@@ -21,6 +21,15 @@ Disponible [aquí](guia.docx). Borrador de documento guía para la publicación 
 
 Disponible en [word](inventario.docx) y en [excel](inventario.xlsx). Borrador de inventario de datos de cada una de las dependencias. Información recolectada en alianza con el área de tegnologías de la información.
 
+# Encuesta
+
+El supervisor del contrato entregó al contratista una encuesta realizada a la Secretaría de Salud del departamento por el SIR y el SIGDEHU. La lista de asistencia se encuentra [aquí](encuesta/listaencuesta.pdf). Se presenta a continuación un resumen:
+
+La [encuesta del SIGDEHU](encuesta/encuesta_sig.pdf) fue realizada a Rocio Laguna Aldana, profesional universitaria de la Secretaría de Salud, a Natalia Sánchez Pedroza, profesional universitaria de la Secretaría de Educación y a Jhon Garay Suaza, administrador agroindustrial y Contratista Coordinador del Observatorio de Territorios Rurales de la Secretaría de Agricultura. En resumen, las encuestas respecto al SIGDEHU resaltan las necesidades técnicas y carencias logísticas (capacitaciones e infraestructura) en función de la información geoespacial. Dichas encuestas están en formato PDF y carecen de digitalización. Al final de cada una se manifiesta que no hay un sistema de información geográfico que dé soporte a las secretarías y profundizan la necesidad del desarrollo del Sistema de Información Geográfico del Huila. 
+
+La [encuesta del SIR](encuesta/encuesta_sir.pdf) fue realizada igualmente a Rocío Laguna Aldana, Natalia Sánchez Pedroza y Jhon Garay Suaza. La encuesta pregunta por los sistemas de información que se manejan en la dependencia y el personal disponible para dichas tareas. Resaltan que no hay formatos preestablecidos para compartir la información al SIR y que poseen información tanto del dominio público como de acceso restringido e información confidencial. Se resalta igualmente la necesidad de implementar un Sistema de Información Regional que dé soporte estadístico a los análisis llevados a cabo en cada dependencia. 
+
+
 # Fuentes de información:
 
 A continuación se presenta un resumen de los orígenes de los datos actuales. Existen cuatro categorías:
