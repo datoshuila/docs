@@ -1,10 +1,31 @@
-Cuatro ítems que engloban la información y datos que se quiere plasmar en la plataforma web:
+
+A continuación se exponen los documentos borrador que hacen parte del Sistema de Información Regional y sirven como marco teórico, práctico y legal para la plataforma http://sirhuila.gov.co
+
+# Acto Administrativo
+
+Borrador del acto administrativo que abre las puertas a la publicación de datos. Click [aquí](acto.docx)
+
+# Estado del Arte
+
+Borrador del diagnóstico de la situación global de publicación de datos. Se incluye el contexto local. Click [aquí](estado_arte.docx)
+
+# Guía
+
+Borrador de documento guía para la publicación de datos en la plataforma. Click [aquí](guia.docx)
+
+# Inventario de datos
+
+Borrador de inventario de datos de cada una de las dependencias. Información recolectada en alianza con el área de tegnologías de la información. Versión en [word](inventario.docx) y en [excel](inventario.xlsx). 
+
+# Fuentes de información:
+
+A continuación se presenta un resumen de los orígenes de los datos actuales. Existen cuatro categorías:
 *	Económico
 *	Gobernanza
 *	Social
 *	Territorial
 ***
-A su vez cada ítem anteriormente mencionado se divide en diferentes categorías que contienen información sobre varios temas del departamento, dentro de la reunión con Diana hemos identificado las fuentes de las cuales se obtiene la información que luego es recopilada y subida a la plataforma, a continuación desglosaremos cada categoría  e indicaremos de donde proviene la información.
+A su vez cada ítem anteriormente mencionado se divide en diferentes categorías que contiene información sobre varios temas del departamento, dentro de la reunión con Diana se identificaron las fuentes de las cuales se obtiene la información que luego es recopilada y subida a la plataforma, a continuación desglosaremos cada categoría  e indicaremos de donde proviene la información.
 
 Económico
 ----
