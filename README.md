@@ -21,7 +21,7 @@ Disponible [aquí](guia.docx). Borrador de documento guía para la publicación 
 
 Disponible en [word](inventario.docx) y en [excel](inventario.xlsx). Borrador de inventario de datos de cada una de las dependencias. Información recolectada en alianza con el área de tegnologías de la información.
 
-# Encuesta
+# Encuesta SIR-SIGDEHU a Educación y Salud
 
 El supervisor del contrato entregó al contratista una encuesta realizada a la Secretaría de Salud del departamento por el SIR y el SIGDEHU. La lista de asistencia se encuentra [aquí](encuesta/listaencuesta.pdf). Se presenta a continuación un resumen:
 
@@ -29,6 +29,44 @@ La [encuesta del SIGDEHU](encuesta/encuesta_sig.pdf) fue realizada a Rocio Lagun
 
 La [encuesta del SIR](encuesta/encuesta_sir.pdf) fue realizada igualmente a Rocío Laguna Aldana, Natalia Sánchez Pedroza y Jhon Garay Suaza. La encuesta pregunta por los sistemas de información que se manejan en la dependencia y el personal disponible para dichas tareas. Resaltan que no hay formatos preestablecidos para compartir la información al SIR y que poseen información tanto del dominio público como de acceso restringido e información confidencial. Se resalta igualmente la necesidad de implementar un Sistema de Información Regional que dé soporte estadístico a los análisis llevados a cabo en cada dependencia. 
 
+# Encuentro con Minería en Secretaría de Agricultura
+
+La Secretaría de Agricultura opera a través de Secretarías Técnicas y se divide en cuatro programas:
+
+1. Programas Agrícolas
+
+Contienen entre el 90%-95% del presupuesto. Responsable: Nelson Arias. Tiene las siguientes Secretarías Técnicas:
+	
+	1.1. Frutas a cargo de Jairo Ledesma. 
+	1.2. Caña-Panela a cargo de Jorge Augusto Rivera Garzón.
+	1.3. Café a cargo de Edilberto Sánchez
+	1.4. Tabaco con ausencia de responsable. 
+	1.5. Cereales a cargo de Franklin Cristofer Díaz Ninco
+
+2. Programas Pecuarios. 
+
+Contiene aprox. el 5% del presupuesto de la secretaría. Tiene la siguientes Secretarías Técnicas:
+
+	2.1. Piscicultura a cargo de Mónica Avilez
+	2.2. Cárnica-Láctea (Ganadera) a cargo de Jorge Luis Salcedo Bahamón.
+
+3. Área forestal y ambiente
+
+El 1% de las utilidades de los recursos de la secretaría van destinados a la adquisición de predios para el manejo de cuencas hidrográficas. Responsable: William Cárdenas. Tiene las siguientes Secretarías Técnicas:
+	
+	3.1. Cacao a cargo de Franklin Cristofer Díaz Ninco.
+	3.2. Tabaco sin responsable. 
+
+4. Minero
+
+Aprox. 1% del presupuesto de la Secretaría. Tiene la Secretaría Técnica Agrominera a cargo de Miguel Avela.  
+La Agencia Nacional de Minería tiene el Catastro Minero. Esa información se publica en el portal y se publican títulos y solicitudes. 
+
+Existe un programa dentro de la SEDAM llamado “Reforestación” así como hay programas transversales a la Secretaría como el Observatorio, Mujer Rural, Jóvenes Rurales, Créditos al campesino, Alianzas Productivas (Ricardo Arciniégas), entre otros. El Observatorio era el único articulador de programas. 
+
+Hay programas que son subsidiarios de créditos y hay programas que funcionan en convenio con instituciones. Como las agencias de desarrollo rural, agencia de minería, universidades y SENA.
+
+Jhon Garay era la persona que sacaba los datos de producción (volúmenes), costos de producción (dinero), áreas de producción (área), tiempos de producción, etc. Dicha persona no trabaja más en la Gobernación y hay un problema de trazabilidad en esta data.
 
 # Fuentes de información:
 
