@@ -1,21 +1,25 @@
 
-A continuación se exponen los documentos borrador que hacen parte del Sistema de Información Regional y sirven como marco teórico, práctico y legal para la plataforma http://sirhuila.gov.co
+A continuación se exponen los documentos borrador que hacen parte del Sistema de Información Regional y sirven como marco teórico, práctico y legal para la plataforma [SIR-SIGDEHU](http://sirhuila.gov.co)
+
+# Diagnóstico
+
+Disponible en [word](diagnostico/diagnostico_sir.docx) y [pdf](diagnostico/diagnostico_sir.docx). Documento diagnóstico del SIR.
 
 # Acto Administrativo
 
-Borrador del acto administrativo que abre las puertas a la publicación de datos. Click [aquí](acto.docx)
+Disponible [aquí](acto.docx). Borrador del acto administrativo que abre las puertas a la publicación de datos.
 
 # Estado del Arte
 
-Borrador del diagnóstico de la situación global de publicación de datos. Se incluye el contexto local. Click [aquí](estado_arte.docx)
+Disponible [aquí](estado_arte.docx). Borrador del diagnóstico de la situación global de publicación de datos. Se incluye el contexto local. 
 
 # Guía
 
-Borrador de documento guía para la publicación de datos en la plataforma. Click [aquí](guia.docx)
+Disponible [aquí](guia.docx). Borrador de documento guía para la publicación de datos en la plataforma.
 
 # Inventario de datos
 
-Borrador de inventario de datos de cada una de las dependencias. Información recolectada en alianza con el área de tegnologías de la información. Versión en [word](inventario.docx) y en [excel](inventario.xlsx). 
+Disponible en [word](inventario.docx) y en [excel](inventario.xlsx). Borrador de inventario de datos de cada una de las dependencias. Información recolectada en alianza con el área de tegnologías de la información.
 
 # Fuentes de información:
 
