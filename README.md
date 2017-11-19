@@ -28,7 +28,7 @@ A continuación se presenta un resumen de los orígenes de los datos actuales. E
 *	Gobernanza
 *	Social
 *	Territorial
-***
+
 A su vez cada ítem anteriormente mencionado se divide en diferentes categorías que contiene información sobre varios temas del departamento, dentro de la reunión con Diana se identificaron las fuentes de las cuales se obtiene la información que luego es recopilada y subida a la plataforma, a continuación desglosaremos cada categoría  e indicaremos de donde proviene la información.
 
 Económico
