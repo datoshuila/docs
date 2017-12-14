@@ -1,9 +1,13 @@
 
 A continuación se exponen los documentos borrador que hacen parte del Sistema de Información Regional y sirven como marco teórico, práctico y legal para la plataforma [SIR-SIGDEHU](http://sirhuila.gov.co)
 
+# Propuesta REDSIH
+
+Disponible en [word](propuesta_datos.docx). Documento que plantea la implementación de una Red de Sistemas de Información en el Huila. Cada sistema de información vendría de las Secretarías del Departamento y convergerían en el Departamento de Planeación para su visualización y análisis.
+
 # Diagnóstico
 
-Disponible en [word](diagnostico/diagnostico_sir.docx) y [pdf](diagnostico/diagnostico_sir.docx). Documento diagnóstico del SIR.
+Disponible en [word](diagnostico/diagnostico_sir.docx) y [pdf](diagnostico/diagnostico_sir.pdf). Documento diagnóstico del SIR.
 
 # Acto Administrativo
 
